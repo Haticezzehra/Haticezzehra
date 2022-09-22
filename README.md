@@ -4,9 +4,9 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=F70C37&center=yanl%C4%B1%C5%9F&vCenter=yanl%C4%B1%C5%9F&lines=Hello!;I+am+Hatice+Zehra">
   </a>
-</h1>"/>
+</h1>
 
-## Junior Mobile Developer
+## Junior  Developer
 
 <font color="#829FF7">turkish coffee ☕ is how i keep up with `<code/>` </font>
 
