@@ -12,7 +12,7 @@
 
 ### Reach out to me
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+[<img  width="22" src="[https://unpkg.com/simple-icons@v4/icons/linkedin.svg](https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png)" align="left" />][linkedin]
 
 <br />
 <br />
