@@ -29,6 +29,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=style=flat-square&logo=react&logoColor=61DAFB)
+![Java](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-512.png)
 
 
 <br />
