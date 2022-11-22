@@ -53,9 +53,9 @@
 
 
 
-<details>
+ <p style="vertical-align:top;">
 <summary> ⭐  Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haticezehra&theme=react" >
-</details>
+</p>
 
 [linkedin]: https://www.linkedin.com/in/hatice-zehra-orhan-021500208/
