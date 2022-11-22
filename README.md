@@ -45,9 +45,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=haticezehra&theme=react" >
  </p>
   
-  <p style="vertical-align:top;">
-   <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haticezehra&layout=compact&theme=dark">
-  </p>
+
   <p style="vertical-align:top;">
   <img alt="" src="https://github-readme-stats.vercel.app/api?username=haticezehra&show_icons=true&theme=dark">
   </p>
