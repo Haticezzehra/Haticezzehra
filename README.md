@@ -40,10 +40,11 @@
 <br />
 <br />
 
-<details>
+  <p style="vertical-align:top;">
 <summary> ⭐ Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=haticezehra&theme=react" >
-</details>
+ </p>
+  
   <p style="vertical-align:top;">
    <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haticezehra&layout=compact&theme=dark">
   </p>
@@ -51,12 +52,12 @@
   <img alt="" src="https://github-readme-stats.vercel.app/api?username=haticezehra&show_icons=true&theme=dark">
   </p>
 
+
+
+
 <details>
-⭐  Most Used Languages
+<summary> ⭐  Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haticezehra&theme=react" >
 </details>
-
-
-
 
 [linkedin]: https://www.linkedin.com/in/hatice-zehra-orhan-021500208/
