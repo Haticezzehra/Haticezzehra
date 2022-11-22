@@ -11,7 +11,7 @@
   </a>
 </h1>
 
-## Junior Java  Developer
+## Junior Developer
 
 <font color="#829FF7">turkish coffee ☕ is how i keep up with `<code/>` </font>
 
