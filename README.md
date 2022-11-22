@@ -52,7 +52,7 @@
   </p>
 
 <details>
-<summary> ⭐  Most Used Languages</summary>
+⭐  Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haticezehra&theme=react" >
 </details>
 
