@@ -44,6 +44,12 @@
 <summary> ⭐ Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=haticezehra&theme=react" >
 </details>
+  <p style="vertical-align:top;">
+   <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhakesikbas&layout=compact&theme=dark">
+  </p>
+  <p style="vertical-align:top;">
+  <img alt="" src="https://github-readme-stats.vercel.app/api?username=suhakesikbas&show_icons=true&theme=dark">
+  </p>
 
 <details>
 <summary> ⭐  Most Used Languages</summary>
