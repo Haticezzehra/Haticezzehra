@@ -46,9 +46,7 @@
  </p>
   
 
-  <p style="vertical-align:top;">
-  <img alt="" src="https://github-readme-stats.vercel.app/api?username=haticezehra&show_icons=true&theme=dark">
-  </p>
+  
 
 
 
