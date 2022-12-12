@@ -16,6 +16,7 @@
 <font color="#829FF7">turkish coffee ☕ is how i keep up with `<code/>` </font>
 
 ### Reach out to me
+  <a href="https://www.linkedin.com/in/haticezehraorhan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hsefaeren" height="30" width="40" /></a>
 
 <img  width="22" src="[https://unpkg.com/simple-icons@v4/icons/linkedin.svg](https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png)" align="left" />
 
