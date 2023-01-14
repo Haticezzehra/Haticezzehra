@@ -36,10 +36,7 @@
 <br />
 <br />
 
-  <p style="vertical-align:top;">
-<summary> ⭐ Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=haticezehra&theme=react" >
- </p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?haticezehra=vn7n24fzkq&theme=default)
   
 
   
