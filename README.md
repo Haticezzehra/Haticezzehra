@@ -14,7 +14,7 @@
 <font color="#829FF7">turkish coffee ☕ is how i keep up with `<code/>` </font>
 
 ### Reach out to me
-  <a href="https://www.linkedin.com/in/haticezehraorhan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hsefaeren" height="30" width="40" /></a>
+  [![LinkedIn](https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png)](https://www.linkedin.com/in/haticezehraorhan/)
 
 <img  width="22" src="[https://unpkg.com/simple-icons@v4/icons/linkedin.svg](https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png)" align="left" />
 
@@ -30,24 +30,27 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-
-
-
+  <br />
 <br />
-<br />
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?haticezehra=vn7n24fzkq&theme=default)
-  
-
-  
-
-
-
 
  <p style="vertical-align:top;">
 <summary> ⭐  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haticezehra&theme=react" >
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkuulas&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+<br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haticezehra&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+  
+
+  
+
+
+
+
+
 
 [linkedin]: https://www.linkedin.com/in/hatice-zehra-orhan-021500208/
 
