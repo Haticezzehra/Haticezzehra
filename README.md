@@ -29,14 +29,7 @@
     <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,git,mysql,postgres&theme=light" />
   </a>
 </p>
-<p align="left"> 
- <img src="https://www.logolynx.com/images/logolynx/40/4070ab2cfaaaa20f057a719f1805d853.png" width="30" height="50" style="max-width: 100%;">  
-<img src="https://intellitech.pro/wp-content/uploads/2019/01/ff-min.png" width="50" height="50" style="max-width: 100%;">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-  <br />
-<br />
+
 
  <p style="vertical-align:top;">
 <summary> ⭐  Most Used Languages</summary>
