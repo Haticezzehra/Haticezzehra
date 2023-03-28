@@ -9,7 +9,7 @@
   </a>
 </h1>
 
-## Junior  Developer
+## Junior Backend  Developer
 
 <font color="#829FF7">turkish coffee ☕ is how i keep up with `<code/>` </font>
 
