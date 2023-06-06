@@ -35,12 +35,12 @@
 <summary> ⭐  Most Used Languages</summary>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haticezehra&layout=compact&theme=midnight-purple)](https://github.com/haticezehra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haticezzehra&layout=compact&theme=midnight-purple)](https://github.com/haticezehra/github-readme-stats)
 
 <br />
 <br />
 
-[![Hatice's GitHub stats](https://github-readme-stats.vercel.app/api?username=haticezehra&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/haticezehra/github-readme-stats)
+[![Hatice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haticezzehra&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/haticezehra/github-readme-stats)
   
 
   
