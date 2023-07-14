@@ -40,8 +40,8 @@
 <br />
 <br />
 
-[![Hatice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haticezzehra&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/haticezehra/github-readme-stats)
-  
+<!--[[![Hatice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haticezzehra&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/haticezehra/github-readme-stats)](url)-->
+
 
   
 
