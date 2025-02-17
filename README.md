@@ -31,16 +31,9 @@
 </p>
 
 
- <p style="vertical-align:top;">
-<summary> ⭐  Most Used Languages</summary>
-</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haticezzehra&layout=compact&theme=midnight-purple)](https://github.com/haticezehra/github-readme-stats)
 
-<br />
-<br />
 
-<!--[[![Hatice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haticezzehra&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/haticezehra/github-readme-stats)](url)-->
 
 
   
